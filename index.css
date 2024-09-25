@@ -35,9 +35,10 @@ body{
 .parent{
     position: relative;
     height: 100%;
-    padding: 0 7rem;
+    padding: 0 3rem;
     display: flex;
-    justify-content: space-between;
+    gap: 20px;
+    /* justify-content: space-between; */
     align-items: center;
 }
 .bot-img{
